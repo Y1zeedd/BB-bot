@@ -1,0 +1,4 @@
+please write your course informations as follows :
+course1,11:00,12:00
+course2,10:00,1:00
+course2,3:00,6:00
